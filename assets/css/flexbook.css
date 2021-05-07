@@ -1,0 +1,63 @@
+#home-badge {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/homepage-image.jpg);
+  background-size: cover;
+}
+
+#home-badge .jumbotron {
+  border-radius: 20px;
+  padding: 40px;
+  background-color: rgba(255,255,255,0.70);
+}
+
+.icon-spec {
+  font-size: 100px;
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.icon-contact {
+  font-size: 50px;
+  display: block;
+  float: left;
+  margin-right: 20px;
+}
+
+.contact-line {
+  margin-top: 20px;
+}
+
+.card-body-about {
+  height: 98%;
+}
+
+.card-body-support {
+  height: 97%;
+  margin: 10px;
+}
+
+.card-body-reference {
+  height: 90%;
+}
+
+.img-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+
+.reference-logo {
+  margin-bottom: 20px;
+  width: 100%;
+  height: auto;
+}
+
+.div-margin {
+  margin-top: 30px;
+}
+
